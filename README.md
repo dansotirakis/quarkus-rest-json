@@ -19,3 +19,7 @@
 
 ### Run:
 >./mvnw package -Pnative.
+
+### GET
+
+>localhost:8080/fruits.html
